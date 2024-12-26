@@ -12,7 +12,6 @@ st.sidebar.markdown("my linked in account : [www.linkedin.com/in/omar-fathy-1708
                     "https://www.linkedin.com/public-profile/settings?trk"
                     "=d_flagship3_profile_self_view_public_profile)")
 
-https://github.com/Omarfathy56/chatbot.git
 # Function to predict whether the image is of a cat or a dog
 def predict_image(image_file):
     cnn = load_model("model.keras")
